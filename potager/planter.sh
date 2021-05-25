@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Savez vous planter des choux"
+echo "Planter des choux"
+echo "A la mode de chez nous" 
